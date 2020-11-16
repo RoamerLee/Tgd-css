@@ -1,0 +1,18 @@
+:root {
+  --color-0: #94fdff; /* box color */
+
+  --color-1: #cceeee; /* */
+  --color-2: #afecf1; /* */
+  --color-3: #4bc8c4; /* main color */
+  --color-4: #35d8da; /* sub  color */
+  --color-5: #aff0f1; /* */
+
+  --logo-URL: url("https://cdn.discordapp.com/attachments/707089214092738601/777735944438546492/53b365567f02a91d.png");
+  --logo-Width: 158px;
+  --logo-Height: 50px;
+  --logo-size-mobile: 90px 32px;
+
+  --icon-URL: url("https://cdn.discordapp.com/attachments/707089214092738601/777736494257274891/RoamerLee_RL_Profile_White.png");
+  --pre-comment: "어서와요";
+  --sub-comment: "명의 방랑자 여러분!";
+}
